@@ -1,0 +1,24 @@
+.bg{
+	background-image: url("Background.jpg");
+	background-size: 100%;
+}
+.time{
+	font-size: 30px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-left: 850px;
+	margin-top: 40px;
+}
+.knight{
+	height: 200px;
+	position: absolute;
+	margin-top: 520px;
+	margin-left: 100px;
+}
+.zombie{
+	height: 200px;
+	position: absolute;
+	margin-top: 520px;
+	margin-left: 1550px;
+	transform: scaleX(-1);
+}
